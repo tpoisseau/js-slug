@@ -1,12 +1,13 @@
 {
-  "name": "js-slug",
-  "version": "1.0.0",
+  "name": "@tpoisseau/slug",
+  "version": "1.0.1",
   "description": "Use the Unicode Luke 🙌",
   "main": "index.mjs",
   "type": "module",
   "scripts": {
     "test": "node --experimental-modules ./test.mjs"
   },
+  "private": false,
   "repository": {
     "type": "git",
     "url": "git+https://github.com/tpoisseau/js-slug.git"

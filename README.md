@@ -17,3 +17,11 @@ If you wan't use it directly in browser
 import slug from 'https://github.com/tpoisseau/js-slug/blob/1.0.0/index.mjs';
 ```
 
+And then
+
+```js
+slug('1 < 2') // 1-2
+slug('Hey! How are you') // hey-how-are-you
+slug('tôi tên là d͌ức tạ') // toi-ten-la-duc-ta
+slug('learn adonis in 30 minutes') // learn-adonis-in-30-minutes
+```
