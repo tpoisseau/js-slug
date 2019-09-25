@@ -14,6 +14,6 @@ import slug from '@tpoisseau/slug';
 If you wan't use it directly in browser
 
 ```js
-import slug from 'https://github.com/tpoisseau/js-slug/blob/master/index.mjs';
+import slug from 'https://github.com/tpoisseau/js-slug/blob/1.0.0/index.mjs';
 ```
 
