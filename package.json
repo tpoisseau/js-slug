@@ -1,0 +1,27 @@
+{
+  "name": "js-slug",
+  "version": "1.0.0",
+  "description": "Use the Unicode Luke 🙌",
+  "main": "index.mjs",
+  "type": "module",
+  "scripts": {
+    "test": "node --experimental-modules ./test.mjs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tpoisseau/js-slug.git"
+  },
+  "keywords": [
+    "slug",
+    "no-charmap"
+  ],
+  "author": "tpoisseau",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tpoisseau/js-slug/issues"
+  },
+  "homepage": "https://github.com/tpoisseau/js-slug#readme",
+  "devDependencies": {
+    "japa": "^3.0.1"
+  }
+}
